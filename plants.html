@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Our Plant Collection | Sri Veerabhadra Nursery and Gardens</title>
+  <meta name="description"
+    content="Explore the extensive plant collection at Sri Veerabhadra Nursery and Gardens, featuring ornamental, fruit, flowering, indoor, and landscaping plants. Find your perfect plant today!" />
+  <meta name="keywords"
+    content="plant collection, buy plants online, ornamental plants, fruit trees, flowering plants, indoor plants, landscaping plants, Kadiyapulanka nursery, Ravulapalem plants" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <script defer src="script.js"></script>
+</head>
+
+<body>
+  <header>
+    <div class="top-bar">
+      <h1>Sri Veerabhadra Nursery and Gardens</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="plants.html">Plant Categories</a></li>
+        <li><a href="contact.html">About Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="our-plants" class="container">
+    <h2>Our Extensive Plant Collection</h2>
+
+    <div class="filter-controls">
+      <input type="text" id="plantSearch" placeholder="Search plants..." aria-label="Search plants by name or description" />
+      <div class="category-buttons">
+        <button class="filter-btn active" data-category="all" aria-label="Show all plant categories"><i class="fas fa-leaf"></i> All Categories</button>
+        <button class="filter-btn" data-category="ornamental" aria-label="Show ornamental plants"><i class="fas fa-flower"></i> Ornamental Plants</button>
+        <button class="filter-btn" data-category="fruit" aria-label="Show fruit trees"><i class="fas fa-apple-alt"></i> Fruit Trees</button>
+        <button class="filter-btn" data-category="flowering" aria-label="Show flowering plants"><i class="fas fa-seedling"></i> Flowering Plants</button>
+        <button class="filter-btn" data-category="indoor" aria-label="Show indoor plants"><i class="fas fa-house-plant"></i> Indoor Plants</button>
+        <button class="filter-btn" data-category="landscaping" aria-label="Show landscaping plants"><i class="fas fa-tree"></i> Landscaping Plants</button>
+      </div>
+    </div>
+
+    <div class="grid" id="plantGrid">
+      <!-- Plant cards will be dynamically loaded here by JavaScript -->
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Sri Veerabhadra Nursery and Gardens | Regd. Business | All rights reserved</p>
+    <div class="social-links">
+      <a href="https://www.facebook.com/profile.php?id=100089523236034" aria-label="Facebook page"><i class="fab fa-facebook"></i></a>
+      <a href="https://www.instagram.com/sriveerabhadranursery/" aria-label="Instagram page"><i class="fab fa-instagram"></i></a>
+    </div>
+  </footer>
+</body>
+
+</html>

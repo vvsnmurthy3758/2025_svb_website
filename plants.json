@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ficus Bonsai",
+    "description": "A classic choice for bonsai enthusiasts, known for its aerial roots and adaptability.",
+    "category": "ornamental",
+    "image": "assets/images/Bonsai.jpg"
+  },
+  {
+    "name": "Hibiscus Plant",
+    "description": "Vibrant flowers in various colors, perfect for adding a tropical touch to your garden.",
+    "category": "ornamental",
+    "image": "assets/images/Bonsai.jpg"
+  },
+  {
+    "name": "Mango Tree",
+    "description": "Grow your own delicious mangoes with our healthy saplings.",
+    "category": "fruit",
+    "image": "assets/images/Fruits.jpg"
+  },
+  {
+    "name": "Guava Tree",
+    "description": "Easy to grow and produces sweet, aromatic fruits.",
+    "category": "fruit",
+    "image": "assets/images/Fruits.jpg"
+  },
+  {
+    "name": "Rose Plant",
+    "description": "The timeless beauty of roses, available in many varieties and colors.",
+    "category": "flowering",
+    "image": "assets/images/Flowers.jpg"
+  },
+  {
+    "name": "Marigold Plant",
+    "description": "Bright and cheerful flowers, great for borders and pest control.",
+    "category": "flowering",
+    "image": "assets/images/Flowers.jpg"
+  },
+  {
+    "name": "Snake Plant",
+    "description": "Low-maintenance and excellent for air purification, ideal for beginners.",
+    "category": "indoor",
+    "image": "assets/images/Lawn.jpg"
+  },
+  {
+    "name": "Money Plant",
+    "description": "Believed to bring good luck and prosperity, easy to care for indoors.",
+    "category": "indoor",
+    "image": "assets/images/Lawn.jpg"
+  },
+  {
+    "name": "Lawn Grass",
+    "description": "High-quality grass varieties for lush, green lawns.",
+    "category": "landscaping",
+    "image": "assets/images/Creepers.jpg"
+  },
+  {
+    "name": "Hedge Plant",
+    "description": "Create natural boundaries and privacy with our selection of hedge plants.",
+    "category": "landscaping",
+    "image": "assets/images/Creepers.jpg"
+  }
+]
